@@ -1,3 +1,4 @@
+// https://askguanyu.wordpress.com/2019/03/14/asp-net-core-make-your-own-proxy/
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
